@@ -48,10 +48,5 @@
     → 유사도 기반 가중치(3,2,1) 조정 후 상위 호텔 3개 출력
     → 상위 3개 지도(folium) 시각화, Radar Chart, 호텔별 긍/부정 WordCloud, 호텔별 유용한 리뷰 출력
     
-## 4. Collaborators
 
-|지다영|dys621124@gmail.com|
-|정새롬|saerom.celiajung@gmail.com|
-
-
-© 2021 Ji DaYeong, Jung Saerom <dys621124@gmail.com, saerom.celiajung@gmail.com>
+© 2021 Saerom Jung <saerom.celiajung@gmail.com>, Ji DaYeong <dys621124@gmail.com>
