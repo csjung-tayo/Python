@@ -49,7 +49,7 @@
     → 상위 3개 지도(folium) 시각화, Radar Chart, 호텔별 긍/부정 WordCloud, 호텔별 유용한 리뷰 출력
     
 ## Collaborators
-    지다영 | dys621124@gmail.com |
-    정새롬 | saerom.celiajung@gmail.com |
+    지다영 | dys621124@gmail.com 
+    정새롬 | saerom.celiajung@gmail.com 
     
-© 2021 Saerom Jung <saerom.celiajung@gmail.com>, DaYeong Ji <dys621124@gmail.com>
+© 2021 DaYeong Ji <dys621124@gmail.com>, Saerom Jung <saerom.celiajung@gmail.com>
