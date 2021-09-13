@@ -49,4 +49,4 @@
     → 상위 3개 지도(folium) 시각화, Radar Chart, 호텔별 긍/부정 WordCloud, 호텔별 유용한 리뷰 출력
     
 
-© 2021 Saerom Jung <saerom.celiajung@gmail.com>, Ji DaYeong <dys621124@gmail.com>
+© 2021 Saerom Jung <saerom.celiajung@gmail.com>, DaYeong Ji <dys621124@gmail.com>
